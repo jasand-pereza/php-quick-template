@@ -69,7 +69,7 @@ QuickTemplate::create($data, function() { ?>
 ### Examples
 [dev.jasandpereza.com/quick-template](http://dev.jasandpereza.com/quick-template "Quick Template Examples")
 
-### Notes from author
+### Notes from the author
 This is pretty much a beta version. Work may or may not continue. If you have any comments or questions, please email me at [jasandpereza@hotmail.com](mailto:jasandpereza@hotmail.com)
 
  
