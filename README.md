@@ -6,7 +6,7 @@ Lightweight PHP Template Engine
 ###Usage
 1. **Define data** 
 2. **Call the create method** 
-3. **Make a template**
+3. **Deploy a template**
     
 
 Using an indexed array
