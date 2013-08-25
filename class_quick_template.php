@@ -33,7 +33,7 @@ Class QuickTemplate {
   public static function template_iterator($data, $buffer) {
     $tinc = 0; $inc = 0;
 
-    /* [REPLACE] - anonymous that replaces keys from an array */
+    /* [REPLACE] - anonymous function that replaces keys from an array */
     $replace_parts = function($k, $v, $buffer, $tinc) {
       $patterns = array("/\%$k\%/","/\%key\%/","/\%value\%/","/\%item\%/","/\%inc\%/");
       $replacements = array($v, $k, $v, $v, 'tinc-' . $tinc);
