@@ -70,6 +70,6 @@ QuickTemplate::create($data, function() { ?>
 [dev.jasandpereza.com/quick-template](http://dev.jasandpereza.com/quick-template "Quick Template Examples")
 
 ### Notes from author
-This is pretty much as beta version. Work may or may not continue. If you have any comments or questions, please email me at [jasandpereza@hotmail.com](mailto:jasandpereza@hotmail.com)
+This is pretty much a beta version. Work may or may not continue. If you have any comments or questions, please email me at [jasandpereza@hotmail.com](mailto:jasandpereza@hotmail.com)
 
  
