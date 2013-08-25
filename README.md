@@ -13,7 +13,7 @@ Using an indexed array
 ```php 
 <?php 
   QuickTemplate::create(array('Toyota', 'Honda', 'Ford'), function() { ?>
-  <li>%item%</li><br>
+  <li>%item%</li>
 <?php });
 ```
 
