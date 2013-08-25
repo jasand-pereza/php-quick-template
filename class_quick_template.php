@@ -41,7 +41,7 @@ Class QuickTemplate {
       return $replaced;
     };
     
-    /* [2] - anonymous function that replaces keys of a multidimensional array */
+    /* [2] - anonymous function that replaces keys of a two dimensional array */
     $sub_iterate = function($array, $buffer, $tinc) {
       $parts = array();
       foreach($array as $k => $v) {
