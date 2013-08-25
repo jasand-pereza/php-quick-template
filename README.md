@@ -11,10 +11,10 @@ Lightweight PHP Template Engine
 
 Using an indexed array
 ```php 
-  <?php 
+<?php 
   QuickTemplate::create(array('Toyota', 'Honda', 'Ford'), function() { ?>
-    <li>%item%</li><br>
-  <?php });
+  <li>%item%</li><br>
+<?php });
 ```
 
 Using an associative array
