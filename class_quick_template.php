@@ -1,8 +1,6 @@
 <?php
 
 Class QuickTemplate {
-  public static $patterns;
-  
   
   /**
    * Uses output buffer in callback function to return a string of new values
